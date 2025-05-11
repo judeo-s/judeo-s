@@ -64,8 +64,8 @@
 
 I'm always up for collaboration, mentorship, or just tech talk.
 
-[![X](https://img.shields.io/badge/X-%400xj_o_s-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/0xj_o_s)
-[![Discord](https://img.shields.io/badge/Discord-@j__o__s-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/)
+[![X](https://img.shields.io/badge/X-%400xj__o__s-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/0xj_o_s)
+[![Discord](https://img.shields.io/badge/Discord-@j__o__s-5865F2?style=flat&logo=discord&logoColor=white)](http://discordapp.com/users/727720451777757238)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://judeo-s.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-judeo--s-121011?style=flat&logo=github&logoColor=white)](https://github.com/judeo-s)
 
