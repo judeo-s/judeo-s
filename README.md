@@ -27,7 +27,6 @@
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-4A1D12?style=flat&logo=burpsuite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-1B1F23?style=flat&logo=gnu&logoColor=white)
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-111010?style=flat&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-F80000?style=flat&logo=ghidra&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-00A3C4?style=flat&logo=docker&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-007CBA?style=flat&logo=vmware&logoColor=white)
