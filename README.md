@@ -12,22 +12,19 @@
 
 ## 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
 ![Assembly](https://img.shields.io/badge/x64_Assembly-181818?style=flat&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-1B1F23?style=flat&logo=gnu&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-F80000?style=flat&logo=ghidra&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-08C6C6?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-4A1D12?style=flat&logo=burpsuite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-1B1F23?style=flat&logo=gnu&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-F80000?style=flat&logo=ghidra&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-00A3C4?style=flat&logo=docker&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-007CBA?style=flat&logo=vmware&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-FF6600?style=flat&logo=zabbix&logoColor=white)
@@ -53,10 +50,11 @@
 
 ## 💡 Interests
 
-- 🛡️ Reverse Engineering & Exploit Development
-- ☁️ Cloud (AWS & Azure)
-- ⚙️ DevOps
-- 🐧 Advanced Linux Admin
+- System Programming
+- Reverse Engineering & Exploit Development
+- Cloud (AWS & Azure)
+- DevOps
+- Advanced Linux Admin
 
 
 
